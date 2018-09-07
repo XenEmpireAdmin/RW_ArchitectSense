@@ -56,7 +56,7 @@ namespace ArchitectSense
                 if (subCategory.def.emulateStuff)
                 {
                     // note that for emulating stuff, we're assuming the item doesn't _actually_ have a stuff.
-                    foreach ( ThingCountClass tc in entDef.costList )
+                    foreach ( ThingDefCountClass tc in entDef.costList )
                         if (Map.listerThings.ThingsOfDef(tc.thingDef).Count == 0)
                             return false;
                 }
@@ -65,14 +65,14 @@ namespace ArchitectSense
             }
         }
 
-        public override GizmoResult GizmoOnGUI(Vector2 topLeft)
+        public override GizmoResult GizmoOnGUI(Vector2 topLeft, float maxWidth)
         {
             // start GUI.color is the transparency set by our floatmenu parent
             // store it, so we can apply it to all subsequent colours
             Color transparency = GUI.color;
 
             // below is 99% copypasta from Designator_Build, with minor naming changes and taking account of transparency.
-            var buttonRect = new Rect(topLeft.x, topLeft.y, Width, 75f);
+            var buttonRect = new Rect(topLeft.x, topLeft.y, maxWidth, 75f);
             var mouseover = false;
             if (Mouse.IsOver(buttonRect))
             {
@@ -83,7 +83,7 @@ namespace ArchitectSense
             if (tex == null)
                 tex = BaseContent.BadTex;
             GUI.DrawTexture(buttonRect, BGTex);
-            MouseoverSounds.DoRegion(buttonRect, SoundDefOf.MouseoverCommand);
+            MouseoverSounds.DoRegion(buttonRect, SoundDefOf.Mouseover_Command);
             GUI.color = IconDrawColor * transparency;
             Widgets.DrawTextureFitted(new Rect(buttonRect), tex, iconDrawScale * 0.85f, iconProportions,
                                        iconTexCoords);

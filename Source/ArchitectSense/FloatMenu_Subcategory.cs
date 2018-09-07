@@ -3,6 +3,7 @@
 // 2016-12-21
 
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using RimWorld;
 using UnityEngine;
@@ -96,7 +97,7 @@ namespace ArchitectSense
                 float posX = listRoot.x + col * (_optionSize.x + _margin);
                 float posY = listRoot.y + row * (_optionSize.y + _margin);
 
-                optionValuesArray[i].DrawArea = new Rect(posX, posY, option.gizmo.Width, 75f);
+                optionValuesArray[i].DrawArea = new Rect(posX, posY, option.gizmo.GetWidth(TotalWidth), 75f);
 
                 GUI.color = baseColor;
                 optionValuesArray[i].mouseIsOver = option.DoGUI_BG(optionValuesArray[i].DrawArea);

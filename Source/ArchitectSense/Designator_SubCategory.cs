@@ -140,13 +140,13 @@ namespace ArchitectSense
                 SelectedItem.DrawPanelReadout(ref curY, width);
         }
 
-        public override GizmoResult GizmoOnGUI(Vector2 topLeft)
+        public override GizmoResult GizmoOnGUI(Vector2 topLeft, float maxWidth)
         {
-            GizmoResult val = base.GizmoOnGUI(topLeft);
+            GizmoResult val = base.GizmoOnGUI(topLeft, maxWidth);
             if ( ValidSubDesignators.Count <= 1 )
                 return val;
 
-            var subCategoryIndicatorRect = new Rect(topLeft.x + Width - 20f, topLeft.y + 4f, SubCategoryIndicatorSize.x,
+            var subCategoryIndicatorRect = new Rect(topLeft.x + maxWidth - 20f, topLeft.y + 4f, SubCategoryIndicatorSize.x,
                                                      SubCategoryIndicatorSize.y);
             GUI.DrawTexture(subCategoryIndicatorRect, SubCategoryIndicatorTexture);
             return val;

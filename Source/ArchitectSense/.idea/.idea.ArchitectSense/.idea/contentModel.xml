@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\cloud\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_ArchitectSense.-1353297506.00" t="ExcludeRecursive" />
+    <e p="D:\Modding\RimWorld\B19Working\RW_ArchitectSense-master\Assemblies" t="ExcludeRecursive" />
+    <e p="D:\Modding\RimWorld\B19Working\RW_ArchitectSense-master\Source\ArchitectSense" t="IncludeRecursive">
+      <e p="ArchitectSense.csproj" t="IncludeRecursive" />
+      <e p="ArchitectSense.sln" t="IncludeFlat" />
+      <e p="Controller.cs" t="Include" />
+      <e p="DesignationSubCategoryDef.cs" t="Include" />
+      <e p="Designator_SubCategory.cs" t="Include" />
+      <e p="Designator_SubCategoryItem.cs" t="Include" />
+      <e p="DesignatorUtility.cs" t="Include" />
+      <e p="FloatMenu_Subcategory.cs" t="Include" />
+      <e p="FloatMenuOption_SubCategory.cs" t="Include" />
+      <e p="Logger.cs" t="Include" />
+      <e p="MergeCategory.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="RemoveCategory.cs" t="Include" />
+    </e>
+  </component>
+</project>

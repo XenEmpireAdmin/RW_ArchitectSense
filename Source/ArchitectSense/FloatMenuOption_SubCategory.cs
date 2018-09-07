@@ -50,7 +50,7 @@ namespace ArchitectSense
             }
             GUI.DrawTexture(rect, Command.BGTex);
 
-            MouseoverSounds.DoRegion(rect, SoundDefOf.MouseoverCommand);
+            MouseoverSounds.DoRegion(rect, SoundDefOf.Mouseover_Command);
 
             GUI.color = gizmo.IconDrawColor;
             Widgets.DrawTextureFitted(new Rect(rect), badTex, gizmo.iconDrawScale * 0.85f, gizmo.iconProportions,

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d591df62-c615-4ccc-81e3-3c64316317fc" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Designator_SubCategory.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Designator_SubCategory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2012">
+              <caret line="151" column="23" lean-forward="false" selection-start-line="151" selection-start-column="23" selection-end-line="151" selection-end-column="23" />
+              <folding>
+                <marker date="1536021716972" expanded="true" signature="0:58" ph="/* Karel Kroeze ... */" />
+                <marker date="1536021716972" expanded="false" signature="104:198" ph="..." />
+                <marker date="1536021716972" expanded="true" signature="224:8338" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="361:8336" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="996:1271" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="1327:1632" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="1353:1516" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="1532:1622" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="1677:2000" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="1703:1990" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="2069:2774" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="2092:2521" ph="/* currently we're initializing in the defsLoaded HugsLib callback, ... */" />
+                <marker date="1536021716972" expanded="true" signature="2537:2764" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="2900:3327" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="2951:3263" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="3369:4597" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="3488:3604" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="3621:4587" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="3950:4122" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="4143:4278" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="4763:4885" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="4966:5445" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="5570:6612" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="5678:5829" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="6062:6176" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="6190:6478" ph="/* otherwise, mimick the normal stuff selection by re-selecting the last 'stuff' (designator), but also showing O ... */" />
+                <marker date="1536021716972" expanded="true" signature="6648:8330" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="6687:7376" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="6859:7260" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="6898:7158" ph="/* action is handled by FloatMenuOption_SubCategory ... */" />
+                <marker date="1536021716972" expanded="true" signature="7393:8320" ph="{...}" />
+                <marker date="1536021716972" expanded="true" signature="7649:8237" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Designator_SubCategoryItem.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Designator_SubCategoryItem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-496">
+              <caret line="85" column="79" lean-forward="false" selection-start-line="85" selection-start-column="79" selection-end-line="85" selection-end-column="79" />
+              <folding>
+                <marker date="1536021716669" expanded="true" signature="0:62" ph="/* Karel Kroeze ... */" />
+                <marker date="1536021716669" expanded="false" signature="111:229" ph="..." />
+                <marker date="1536021716669" expanded="true" signature="255:6162" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="320:6160" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="555:619" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="855:919" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="957:1167" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="983:1157" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="1268:1833" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="1294:1823" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="1435:1779" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="1914:5404" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="1937:2073" ph="/* start GUI.color is the transparency set by our floatmenu parent ... */" />
+                <marker date="1536021716669" expanded="true" signature="2394:2521" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="3223:3573" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="3446:3559" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="3739:4282" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="4346:4682" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="4461:4609" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="4695:4867" ph="/* TODO: Reimplement tutor. ... */" />
+                <marker date="1536021716669" expanded="true" signature="4893:5237" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="5749:6019" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="5775:6009" ph="{...}" />
+                <marker date="1536021716669" expanded="true" signature="6060:6154" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FloatMenu_Subcategory.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FloatMenu_Subcategory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="814">
+              <caret line="102" column="98" lean-forward="false" selection-start-line="102" selection-start-column="98" selection-end-line="102" selection-end-column="98" />
+              <folding>
+                <marker date="1536022798429" expanded="true" signature="0:57" ph="/* Karel Kroeze ... */" />
+                <marker date="1536022798429" expanded="false" signature="65:176" ph="..." />
+                <marker date="1536022798429" expanded="true" signature="202:7192" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="257:7190" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="291:426" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="436:2323" ph="Constructors" />
+                <marker date="1536022798429" expanded="true" signature="466:824" ph="/// Constructor for a floatmenu with configurable sizes, icons and background textures. ... " />
+                <marker date="1536022798429" expanded="true" signature="1087:2290" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="1272:1491" ph="/* need to redo column and size calculations because base isn't aware of our configurable sizes. ... */" />
+                <marker date="1536022798429" expanded="true" signature="1828:1948" ph="/* tweak rect position to fit within window ... */" />
+                <marker date="1536022798429" expanded="true" signature="2333:4970" ph="Methods" />
+                <marker date="1536022798429" expanded="true" signature="2408:4942" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="2431:2573" ph="/* define our own implementation, mostly copy-pasta with a few edits for option sizes ... */" />
+                <marker date="1536022798429" expanded="true" signature="3080:3732" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="3626:3718" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="3787:4022" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="4076:4854" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="4349:4453" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="4515:4646" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="4744:4840" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="4980:5315" ph="Fields" />
+                <marker date="1536022798429" expanded="true" signature="5325:7184" ph="copypasta from Verse.FloatMenu" />
+                <marker date="1536022798429" expanded="true" signature="5408:5630" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="5434:5620" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="5674:5902" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="5700:5892" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="5936:6006" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="6037:6143" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="6178:6425" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="6204:6415" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="6459:6546" ph="{...}" />
+                <marker date="1536022798429" expanded="true" signature="6586:7133" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FloatMenuOption_SubCategory.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FloatMenuOption_SubCategory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <marker date="1536022798525" expanded="true" signature="0:63" ph="/* Karel Kroeze ... */" />
+                <marker date="1536022798525" expanded="false" signature="71:170" ph="..." />
+                <marker date="1536022798525" expanded="true" signature="196:5426" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="263:5424" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="1087:1139" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="1260:2003" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="1344:1458" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="1527:1600" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="2047:4403" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="2286:2698" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="2560:2684" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="2752:2823" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="2911:3346" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="3470:4046" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="3603:3979" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="3744:3959" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="4248:4354" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="4486:5418" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="4532:5221" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="4582:4889" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="4661:4799" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="4957:5065" ph="{...}" />
+                <marker date="1536022798525" expanded="true" signature="5251:5347" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/FloatMenu_Subcategory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Designator_SubCategoryItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Designator_SubCategory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FloatMenuOption_SubCategory.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Designator_SubCategory.cs" />
+        <option value="$PROJECT_DIR$/Designator_SubCategoryItem.cs" />
+        <option value="$PROJECT_DIR$/FloatMenu_Subcategory.cs" />
+        <option value="$PROJECT_DIR$/FloatMenuOption_SubCategory.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="253" />
+    <option name="y" value="260" />
+    <option name="width" value="3300" />
+    <option name="height" value="1673" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ArchitectSense (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ArchitectSense (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ArchitectSense" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ArchitectSense (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ArchitectSense" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="References" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ArchitectSense (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ArchitectSense" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="References" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assemblies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed/UnityEngine.dll" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d591df62-c615-4ccc-81e3-3c64316317fc" name="Default" comment="" />
+      <created>1536021345667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536021345667</updated>
+      <workItem from="1536021349275" duration="1465000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1465000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="253" y="260" width="3300" height="1673" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24984747" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Designator_SubCategory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2012">
+          <caret line="151" column="23" lean-forward="false" selection-start-line="151" selection-start-column="23" selection-end-line="151" selection-end-column="23" />
+          <folding>
+            <marker date="1536021716972" expanded="true" signature="0:58" ph="/* Karel Kroeze ... */" />
+            <marker date="1536021716972" expanded="false" signature="104:198" ph="..." />
+            <marker date="1536021716972" expanded="true" signature="224:8338" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="361:8336" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="996:1271" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="1327:1632" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="1353:1516" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="1532:1622" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="1677:2000" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="1703:1990" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="2069:2774" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="2092:2521" ph="/* currently we're initializing in the defsLoaded HugsLib callback, ... */" />
+            <marker date="1536021716972" expanded="true" signature="2537:2764" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="2900:3327" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="2951:3263" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="3369:4597" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="3488:3604" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="3621:4587" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="3950:4122" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="4143:4278" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="4763:4885" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="4966:5445" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="5570:6612" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="5678:5829" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="6062:6176" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="6190:6478" ph="/* otherwise, mimick the normal stuff selection by re-selecting the last 'stuff' (designator), but also showing O ... */" />
+            <marker date="1536021716972" expanded="true" signature="6648:8330" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="6687:7376" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="6859:7260" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="6898:7158" ph="/* action is handled by FloatMenuOption_SubCategory ... */" />
+            <marker date="1536021716972" expanded="true" signature="7393:8320" ph="{...}" />
+            <marker date="1536021716972" expanded="true" signature="7649:8237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Designator_SubCategoryItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-496">
+          <caret line="85" column="79" lean-forward="false" selection-start-line="85" selection-start-column="79" selection-end-line="85" selection-end-column="79" />
+          <folding>
+            <marker date="1536021716669" expanded="true" signature="0:62" ph="/* Karel Kroeze ... */" />
+            <marker date="1536021716669" expanded="false" signature="111:229" ph="..." />
+            <marker date="1536021716669" expanded="true" signature="255:6162" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="320:6160" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="555:619" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="855:919" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="957:1167" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="983:1157" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="1268:1833" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="1294:1823" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="1435:1779" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="1914:5404" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="1937:2073" ph="/* start GUI.color is the transparency set by our floatmenu parent ... */" />
+            <marker date="1536021716669" expanded="true" signature="2394:2521" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="3223:3573" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="3446:3559" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="3739:4282" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="4346:4682" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="4461:4609" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="4695:4867" ph="/* TODO: Reimplement tutor. ... */" />
+            <marker date="1536021716669" expanded="true" signature="4893:5237" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="5749:6019" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="5775:6009" ph="{...}" />
+            <marker date="1536021716669" expanded="true" signature="6060:6154" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FloatMenu_Subcategory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="102" column="98" lean-forward="false" selection-start-line="102" selection-start-column="98" selection-end-line="102" selection-end-column="98" />
+          <folding>
+            <marker date="1536022798429" expanded="true" signature="0:57" ph="/* Karel Kroeze ... */" />
+            <marker date="1536022798429" expanded="false" signature="65:176" ph="..." />
+            <marker date="1536022798429" expanded="true" signature="202:7192" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="257:7190" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="291:426" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="436:2323" ph="Constructors" />
+            <marker date="1536022798429" expanded="true" signature="466:824" ph="/// Constructor for a floatmenu with configurable sizes, icons and background textures. ... " />
+            <marker date="1536022798429" expanded="true" signature="1087:2290" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="1272:1491" ph="/* need to redo column and size calculations because base isn't aware of our configurable sizes. ... */" />
+            <marker date="1536022798429" expanded="true" signature="1828:1948" ph="/* tweak rect position to fit within window ... */" />
+            <marker date="1536022798429" expanded="true" signature="2333:4970" ph="Methods" />
+            <marker date="1536022798429" expanded="true" signature="2408:4942" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="2431:2573" ph="/* define our own implementation, mostly copy-pasta with a few edits for option sizes ... */" />
+            <marker date="1536022798429" expanded="true" signature="3080:3732" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="3626:3718" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="3787:4022" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="4076:4854" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="4349:4453" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="4515:4646" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="4744:4840" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="4980:5315" ph="Fields" />
+            <marker date="1536022798429" expanded="true" signature="5325:7184" ph="copypasta from Verse.FloatMenu" />
+            <marker date="1536022798429" expanded="true" signature="5408:5630" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="5434:5620" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="5674:5902" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="5700:5892" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="5936:6006" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="6037:6143" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="6178:6425" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="6204:6415" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="6459:6546" ph="{...}" />
+            <marker date="1536022798429" expanded="true" signature="6586:7133" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="5142" column="4" lean-forward="false" selection-start-line="5142" selection-start-column="4" selection-end-line="5142" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FloatMenuOption_SubCategory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <marker date="1536022798525" expanded="true" signature="0:63" ph="/* Karel Kroeze ... */" />
+            <marker date="1536022798525" expanded="false" signature="71:170" ph="..." />
+            <marker date="1536022798525" expanded="true" signature="196:5426" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="263:5424" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="1087:1139" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="1260:2003" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="1344:1458" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="1527:1600" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="2047:4403" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="2286:2698" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="2560:2684" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="2752:2823" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="2911:3346" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="3470:4046" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="3603:3979" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="3744:3959" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="4248:4354" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="4486:5418" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="4532:5221" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="4582:4889" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="4661:4799" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="4957:5065" ph="{...}" />
+            <marker date="1536022798525" expanded="true" signature="5251:5347" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
